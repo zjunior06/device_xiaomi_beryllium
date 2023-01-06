@@ -24,16 +24,13 @@
     <string name="dirac_preset_title">Wybierz predefiniowane ustawienie</string>
 
     <!-- Dirac settings: Headset types -->
-    <string name="dirac_headset_default">Standardowe</string>
     <string name="dirac_headset_earbuds">Mi Earbuds</string>
     <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
     <string name="dirac_headset_piston_1">Mi Piston-1</string>
-    <string name="dirac_headset_general">Ogólne</string>
-    <string name="dirac_headset_general_inear">Ogólne douszne</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
     <string name="dirac_headset_piston_basic">Basic Edition</string>
     <string name="dirac_headset_piston_2">Mi Piston-2</string>
     <string name="dirac_headset_piston_standard">Standard Edition</string>
-    <string name="dirac_headset_headphone">Mi Headphones</string>
     <string name="dirac_headset_piston_youth">Youth Edition</string>
     <string name="dirac_headset_piston_color">Color Edition</string>
     <string name="dirac_headset_in_ear">Mi In-Ear</string>
@@ -46,6 +43,11 @@
     <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
     <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
     <string name="dirac_headset_earphone">Mi Earphones</string>
+    <string name="dirac_headset_ear_four">Mi Quadruple Driver Earphones</string>
+    <string name="dirac_headset_piston_typec">Mi In-Ear Headphones (Type-C)</string>
+    <string name="dirac_headset_bluetooth_collar">Mi Bluetooth Neckband</string>
+    <string name="dirac_headset_bluetooth_linefree">Mi Bluetooth Earphones</string>
+    <string name="dirac_headset_redmi_earphones">Redmi Earphones</string>
 
     <!-- Dirac settings: Equalizer presets -->
     <string name="dirac_preset_default">Domyślny</string>
@@ -79,6 +81,18 @@
     <string name="thermal_streaming">Przesyłanie strumieniowe</string>
 
     <!-- Raise to wake strings-->
-    <string name="raise_to_wake_gesture_title">Podnieś, aby wybudzić</string>
+    <string name="raise_to_wake_gesture_title">Podnieś, by wybudzić</string>
     <string name="raise_to_wake_gesture_summary">Wybudź urządzenie zamiast pulsujących powiadomień</string>
+
+    <!-- MiSound scenes -->
+    <string name="music_headset_scenario_intelligent">Inteligentny</string>
+    <string name="music_headset_scenario_music">Muzyka</string>
+    <string name="music_headset_scenario_select">Wybierz scenę</string>
+    <string name="music_headset_scenario_video">Wideo</string>
+    <string name="music_headset_scenario_vocal">Głos</string>
+
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">Wyczyść głośnik</string>
+    <string name="clear_speaker_summary">Odtwórz 30 sekundowy dźwięk, aby oczyścić głośnik</string>
+    <string name="clear_speaker_description">Uruchom tę funkcję raz lub dwa razy, jeśli zauważysz, że głośnik jest lekko przysłonięty kurzem. Ustaw głośność multimediów na maksimum.\n\nJeśli głośnik jest mocno zablokowany, uruchom tę funkcję 2-5 razy, potrząsając urządzeniem z głośnikiem skierowanym w dół.\n\nOSTRZEŻENIE: Upewnij się, że wszystkie słuchawki są odłączone.</string>
 </resources>
